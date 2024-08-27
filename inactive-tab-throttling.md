@@ -20,8 +20,6 @@ Examples of heavy running task
 
 ## Solution
 
-[movie](https://github.com/user-attachments/assets/157ece9a-1323-4169-8040-819f90b11ee6)
-
 **Web worker**
 
 > By moving the heavy running process away from the main JavaScript thread to separate thread, we can mitigate the issue by a lot.
