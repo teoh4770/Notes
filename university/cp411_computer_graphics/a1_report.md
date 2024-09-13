@@ -76,7 +76,7 @@ Link to lab practice: https://mylearningspace.wlu.ca/d2l/le/content/549078/viewC
 
 Complete? Yes or No 
 
-Yes. Screenshots below as a proof.
+Yes. Screenshots below as proofs.
 
 Cube
 
@@ -90,7 +90,9 @@ GLSL Cube
 
 Complete? Yes or No 
 
-Yes. Screenshots below as a proof.
+Yes. Screenshot below as a proof.
+
+Openglc Polygon
 
 ![openglc_polygon](https://github.com/user-attachments/assets/f43f97e4-1e25-4c53-bead-80fef286c5c6)
 
@@ -98,7 +100,11 @@ Yes. Screenshots below as a proof.
 
 Complete? Yes or No 
 
-<!--If you answer Yes, insert a screenshot image to show the completion.-->
+Yes. Screenshot below as a proof
+
+Glut Test Shapes
+
+![glut_test_shapes](https://github.com/user-attachments/assets/7b627e5b-aa03-44db-8d11-4f9de0732f30)
 
 
 **References**
