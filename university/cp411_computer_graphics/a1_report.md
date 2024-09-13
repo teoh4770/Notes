@@ -76,23 +76,23 @@ Link to lab practice: https://mylearningspace.wlu.ca/d2l/le/content/549078/viewC
 
 Complete? Yes or No 
 
-<!--If you answer Yes, insert a screenshot image to show the completion.-->
-Yes. Screen image below as a proof.
+Yes. Screenshots below as a proof.
 
-<!-- ![Image caption](images/demo.png){width=90%} -->
+Cube
 
+![cube.png](https://github.com/user-attachments/assets/6b004c5f-3ef1-4f6e-8695-4f2023fccacb)
 
-<!-- If No, add a short description to describe the issues encountered.-->
+GLSL Cube
+
+![glsl_cube](https://github.com/user-attachments/assets/25be8fa7-91ab-478f-9e2f-c235175aec29)
 
 ### Q4.2 OpenGL C project 
 
 Complete? Yes or No 
 
-<!--If you answer Yes, insert a screenshot image to show the completion.-->
+Yes. Screenshots below as a proof.
 
-![Image caption](images/demo.png){width=90%}
-
-<!-- If No, add a short description to describe the issues encountered.-->
+![openglc_polygon](https://github.com/user-attachments/assets/f43f97e4-1e25-4c53-bead-80fef286c5c6)
 
 ### Q4.3 OpenGL C++ project 
 
@@ -100,13 +100,7 @@ Complete? Yes or No
 
 <!--If you answer Yes, insert a screenshot image to show the completion.-->
 
-![Image caption](images/demo.png){width=90%}
-
-<!-- If No, add a short description to describe the issues encountered.-->
-
-
 
 **References**
 
 1. CP411 a1
-2. Add your references if you used any. 
